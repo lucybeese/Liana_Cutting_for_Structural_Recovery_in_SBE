@@ -136,7 +136,3 @@ University of Bristol.
 
 This repository is shared for **academic and non-commercial research purposes**.
 A licence file will be added prior to final publication.
-
----
-
-If you want, I can also give you a **much stronger first paragraph (journal-style)** that will make this repository read more like those attached to **Nature Ecology & Evolution / Global Change Biology papers**, which improves perceived credibility.
