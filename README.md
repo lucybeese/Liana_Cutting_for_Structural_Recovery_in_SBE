@@ -122,9 +122,9 @@ If you use this code or data, please cite the associated thesis:
 
 # Author
 
-**Lucy Beese**
-School of Biological Sciences
-University of Bristol
+**Lucy Beese**,
+School of Biological Sciences,
+University of Bristol.
 
 ---
 
