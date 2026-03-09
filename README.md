@@ -78,7 +78,11 @@ The `code/` directory contains scripts used to:
 Scripts are organised sequentially to reflect the analytical workflow.
 
 ---
+# Data availability 
 
+Most of the data used has been uploaded in the 'data/' directory. Some data however, were too large to be uploaded. In these instances, the raw data can be found at: https://zenodo.org/records/14917551.
+
+---
 # Data dictionary (key variables)
 
 The following variables are central to the analyses:
@@ -96,7 +100,6 @@ The following variables are central to the analyses:
 # Reproducibility
 
 Analyses were conducted primarily in **R**.
-Raw data can be found at: https://zenodo.org/records/14917551
 
 Users should ensure that package versions are compatible with those used during the analysis. 
 ---
